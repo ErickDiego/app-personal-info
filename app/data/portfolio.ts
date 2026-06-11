@@ -25,11 +25,20 @@ export const portfolioData = {
     { name: "Java", icon: "☕" },
     { name: "Python", icon: "🐍" },
     { name: "SQL", icon: "🗄️" },
+    { name: "mongoDB", icon: "🍃" },
     { name: "Node.js", icon: "⚙️" },
     { name: "React", icon: "⚛️" },
     { name: "TypeScript", icon: "📘" },
     { name: "PostgreSQL", icon: "🗄️" },
     { name: "REST API", icon: "🔌" },
+    { name: "Git", icon: "🔧" },
+    { name: "Docker", icon: "🐳" },
+    { name: "GitHub", icon: "🐙" },
+    { name: "Agile Methodologies", icon: "🚀" },
+    { name: "golang", icon: "🐹" },
+    { name: ".NET", icon: "🔗" },
+    { name: "C#", icon: "🔗" },
+    { name: "vb.net", icon: "🔗" },
   ],
 
   certifications: [
@@ -38,6 +47,12 @@ export const portfolioData = {
       name: "Certificación Profesional en Ingeniería de Software",
       issuer: "Institución Educativa",
       year: 2023,
+    },
+    {
+      id: 2,
+      name: "Certificación TMFs",
+      issuer: "Institución Educativa",
+      year: 2025,
     },
   ],
 
