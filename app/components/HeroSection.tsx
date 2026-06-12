@@ -41,6 +41,11 @@ export function HeroSection() {
         <p className="text-xl sm:text-2xl text-blue-100 dark:text-blue-200 mb-8">
           {personal.title}
         </p>
+        <img
+          src="/images/portada.png"
+          alt="Portada"
+          className="mx-auto mb-8 rounded-xl shadow-2xl w-full max-w-3xl"
+        />
         <p className="text-lg text-blue-50 dark:text-blue-300 max-w-2xl mx-auto">
           {personal.heroTitle}
         </p>
